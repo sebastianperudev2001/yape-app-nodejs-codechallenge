@@ -1,0 +1,6 @@
+{
+  "name": "@yape/shared-types",
+  "version": "1.0.0",
+  "description": "Shared types and interfaces for Yape Anti-Fraud System",
+  "main": "src/index.ts"
+}
